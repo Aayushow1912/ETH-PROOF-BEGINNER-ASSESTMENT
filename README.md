@@ -1,7 +1,7 @@
 # ETH-BEGGINER-COURSE
 ## FINAL PROJECT - MyToken
 
-Hey! This code is designed to create a token on the Ethereum blockchain. It perform operatons such as token creation (minting) and token destruction (burning). The token is named "Ubuntu" with the symbol "UB". It keeps track of the total supply and the balances of each address in the ethereum.
+Hey! This code is made to create a token on the Ethereum blockchain. It perform operatons such as token creation (minting) and token destruction (burning). The token is named "Ubuntu" with the symbol "UB". It keeps track of the total supply and the balances of each address in the ethereum.
 ## Description
 
 The Ubuntu(UB) token contract offers essential token functionalities on the Ethereum blockchain. It defines the token's name, symbol, and total supply through public variables and uses mappings to track user balances. 
